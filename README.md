@@ -235,8 +235,10 @@ The focus was not only on building charts, but on converting student-level data 
 **Akshay Aswani**  
 Aspiring Data Analyst | SQL • Power BI • Excel • Python
 
-🌐 **Portfolio:** aaswani365.github.io  
-💻 **GitHub:** @aaswani365
+🌐 **Portfolio:** [aaswani365.github.io](https://aaswani365.github.io/)  
+💻 **GitHub:** [@aaswani365](https://github.com/aaswani365)
+
+---
 
 ---
 
