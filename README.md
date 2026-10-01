@@ -88,52 +88,54 @@ altering the original raw dataset.
   Average Study Hours               27.13 hrs/week
   Average Engagement Score                   72.07
 
+## Key KPIs
+
+| KPI | Result |
+|---|---:|
+| Total Students | 10,000 |
+| Average Exam Score | 70.19% |
+| Average Attendance | 75.09% |
+| Average Assignment Completion | 74.92% |
+| Average Study Hours | 27.13 hrs/week |
+| Average Engagement Score | 72.07 |
+
 ## Key Insights
 
 ### 1. Overall Performance
 
-The average exam score is **70.19%**, while the final-grade distribution
-is relatively balanced:
+The average exam score is **70.19%**, with a relatively balanced final-grade distribution:
 
--   Grade A: **26.78%**
--   Grade B: **24.55%**
--   Grade C: **24.40%**
--   Grade D: **24.27%**
+- Grade A: **26.78%**
+- Grade B: **24.55%**
+- Grade C: **24.40%**
+- Grade D: **24.27%**
 
 ### 2. Student Support Priority
 
-Most students are classified as **On Track**, but a meaningful portion
-may require additional support:
+Most students are classified as **On Track**, while a meaningful proportion may require additional support:
 
--   On Track: **66.26%**
--   Medium Priority: **19.40%**
--   High Priority: **14.34%**
+- On Track: **66.26%**
+- Medium Priority: **19.40%**
+- High Priority: **14.34%**
 
-Combined, **33.74%** of students fall into the Medium or High Priority
-groups.
+Combined, **33.74% of students** fall into the Medium or High Priority groups, highlighting a substantial segment that may benefit from targeted academic support.
 
 ### 3. Performance Drivers
 
-Average exam performance varies only modestly across the factors
-analyzed. Using the difference between the highest- and
-lowest-performing segment within each factor:
+Average exam performance varies only modestly across the factors analyzed. Using the difference between the highest- and lowest-performing segment within each factor:
 
-  Factor                         Exam Score Spread
-  ----------------------- ------------------------
-  Study Hours               0.60 percentage points
-  Attendance                1.43 percentage points
-  Assignment Completion     1.23 percentage points
-  Learning Style            0.68 percentage points
+| Factor | Exam Score Spread |
+|---|---:|
+| Study Hours | 0.60 percentage points |
+| Attendance | 1.43 percentage points |
+| Assignment Completion | 1.23 percentage points |
+| Learning Style | 0.68 percentage points |
 
-Attendance shows the largest spread among these factors, but the overall
-differences remain small.
+**Key Finding:** Attendance shows the largest spread at **1.43 percentage points**, followed by Assignment Completion at **1.23 percentage points**. However, the overall differences remain small, suggesting that no single analyzed factor shows a strong standalone relationship with exam performance.
 
 ### 4. Learning Style
 
-**Auditory learners** record the highest average exam score at
-**70.49%**. However, the difference between learning-style groups is
-less than one percentage point, so it should not be treated as a strong
-performance advantage.
+**Auditory learners** record the highest average exam score at **70.49%**. However, the difference between learning-style groups is **less than one percentage point**, so it should not be interpreted as a strong performance advantage.
 
 ## Recommendations
 
